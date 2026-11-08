@@ -1,4 +1,5 @@
+open-image-models
+fast-plate-ocr[onnx]
 opencv-python
 numpy
-pytesseract
-imutils
+pillow
